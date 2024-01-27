@@ -26,3 +26,5 @@ if [ "$a" == "inactive (dead)" ]; then
 else
     echo -e "${green}The firewalld is active (running)${reset}"
 fi
+
+karthikkeyan-checking
